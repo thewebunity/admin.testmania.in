@@ -1,0 +1,14 @@
+## Dependencies to avoid tracking
+
+/node_modules
+/client/node_modules
+
+
+
+.env.local
+.env.development
+.env.production
+.env.test
+
+yarn-error.log
+
